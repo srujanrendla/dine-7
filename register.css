@@ -1,0 +1,39 @@
+body{
+    background-image: url(bg5.jpg);
+    background-repeat: no-repeat;
+    background-size: 1100px 500px;
+    height: 300px;
+}
+form{
+    border: solid 10px burlywood;
+    background-color: rgba(250, 235, 215, 0.768);
+    margin-left: 100px;
+    margin-right: 100px;
+   
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 45px;
+}
+label{
+    font-size: 25px;
+    color: rgb(226, 43, 43);
+    font-weight: bold;
+}
+input{
+    width:200px ;
+    height: 35px;
+    margin-bottom: 10px;
+}
+.imranp{
+    text-align: center;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: darkblue;
+    color: blanchedalmond;
+    font-size: 21px;
+    border-radius: 20px;
+}
